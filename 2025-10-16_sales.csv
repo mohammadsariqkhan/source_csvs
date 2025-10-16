@@ -1,0 +1,11 @@
+sale_id,product,quantity,price,date
+1,Laptop,2,85000,2025-10-04
+2,Headphones,5,3000,2025-10-04
+3,Keyboard,3,1500,2025-10-04
+4,Mouse,4,800,2025-10-04
+5,Monitor,1,12000,2025-10-04
+6,Webcam,2,2500,2025-10-04
+7,Printer,1,7500,2025-10-04
+8,Desk Lamp,3,1000,2025-10-04
+9,External HDD,2,6000,2025-10-04
+10,Router,1,2200,2025-10-04
